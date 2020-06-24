@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8z1K1hDFWqIFA2MvDUz54ObnvpF3euhhS+eLSnd2EtWtTUQFjdLcVmy8MfZK2DEHbvH0k5EbrbyY23L8KsCQA==",
+  "success": true,
+  "projectFilePath": "C:\\prjS\\_xamarinPrjs\\ReadingTextFiles\\BlackCat\\BlackCat\\BlackCat.iOS\\BlackCat.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
